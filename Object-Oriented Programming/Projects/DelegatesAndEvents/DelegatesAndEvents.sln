@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01_InterestCalculator", "Problem01_InterestCalculator\Problem01_InterestCalculator.csproj", "{545054E4-0C4D-4AF7-A925-164CA578FC90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02_Asynchronous Timer", "Problem02._Asynchronous Timer\Problem02_Asynchronous Timer.csproj", "{D8A4349F-8A52-41E0-AC18-F430211FB1A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03_StudentClass", "Problem03_StudentClass\Problem03_StudentClass.csproj", "{F9EA77D4-B703-4150-94A1-50570DA5D4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545054E4-0C4D-4AF7-A925-164CA578FC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545054E4-0C4D-4AF7-A925-164CA578FC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545054E4-0C4D-4AF7-A925-164CA578FC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545054E4-0C4D-4AF7-A925-164CA578FC90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A4349F-8A52-41E0-AC18-F430211FB1A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A4349F-8A52-41E0-AC18-F430211FB1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A4349F-8A52-41E0-AC18-F430211FB1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A4349F-8A52-41E0-AC18-F430211FB1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EA77D4-B703-4150-94A1-50570DA5D4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EA77D4-B703-4150-94A1-50570DA5D4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EA77D4-B703-4150-94A1-50570DA5D4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EA77D4-B703-4150-94A1-50570DA5D4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

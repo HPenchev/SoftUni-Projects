@@ -1,0 +1,6 @@
+c:\users\ico\documents\visual studio 2013\Projects\ExceptionHandling\Problem01_SquareRoot\bin\Debug\Problem01_SquareRoot.exe.config
+c:\users\ico\documents\visual studio 2013\Projects\ExceptionHandling\Problem01_SquareRoot\bin\Debug\Problem01_SquareRoot.exe
+c:\users\ico\documents\visual studio 2013\Projects\ExceptionHandling\Problem01_SquareRoot\bin\Debug\Problem01_SquareRoot.pdb
+c:\users\ico\documents\visual studio 2013\Projects\ExceptionHandling\Problem01_SquareRoot\obj\Debug\Problem01_SquareRoot.csprojResolveAssemblyReference.cache
+c:\users\ico\documents\visual studio 2013\Projects\ExceptionHandling\Problem01_SquareRoot\obj\Debug\Problem01_SquareRoot.exe
+c:\users\ico\documents\visual studio 2013\Projects\ExceptionHandling\Problem01_SquareRoot\obj\Debug\Problem01_SquareRoot.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem02_LaptopShop\bin\Debug\Problem02_LaptopShop.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem02_LaptopShop\bin\Debug\Problem02_LaptopShop.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem02_LaptopShop\bin\Debug\Problem02_LaptopShop.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem02_LaptopShop\obj\Debug\Problem02_LaptopShop.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem02_LaptopShop\obj\Debug\Problem02_LaptopShop.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem02_LaptopShop\obj\Debug\Problem02_LaptopShop.pdb

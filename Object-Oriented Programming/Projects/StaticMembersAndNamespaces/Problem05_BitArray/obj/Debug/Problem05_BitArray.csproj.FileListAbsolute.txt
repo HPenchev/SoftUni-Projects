@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem05_BitArray\bin\Debug\Problem05_BitArray.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem05_BitArray\bin\Debug\Problem05_BitArray.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem05_BitArray\bin\Debug\Problem05_BitArray.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem05_BitArray\obj\Debug\Problem05_BitArray.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem05_BitArray\obj\Debug\Problem05_BitArray.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem05_BitArray\obj\Debug\Problem05_BitArray.pdb

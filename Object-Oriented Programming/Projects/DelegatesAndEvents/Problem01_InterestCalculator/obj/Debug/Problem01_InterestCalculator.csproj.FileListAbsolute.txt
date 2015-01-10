@@ -1,0 +1,6 @@
+c:\users\ico\documents\visual studio 2013\Projects\DelegatesAndEvents\Problem01_InterestCalculator\bin\Debug\Problem01_InterestCalculator.exe.config
+c:\users\ico\documents\visual studio 2013\Projects\DelegatesAndEvents\Problem01_InterestCalculator\bin\Debug\Problem01_InterestCalculator.exe
+c:\users\ico\documents\visual studio 2013\Projects\DelegatesAndEvents\Problem01_InterestCalculator\bin\Debug\Problem01_InterestCalculator.pdb
+c:\users\ico\documents\visual studio 2013\Projects\DelegatesAndEvents\Problem01_InterestCalculator\obj\Debug\Problem01_InterestCalculator.csprojResolveAssemblyReference.cache
+c:\users\ico\documents\visual studio 2013\Projects\DelegatesAndEvents\Problem01_InterestCalculator\obj\Debug\Problem01_InterestCalculator.exe
+c:\users\ico\documents\visual studio 2013\Projects\DelegatesAndEvents\Problem01_InterestCalculator\obj\Debug\Problem01_InterestCalculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem04_HTMLDispatcher\bin\Debug\Problem04_HTMLDispatcher.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem04_HTMLDispatcher\bin\Debug\Problem04_HTMLDispatcher.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem04_HTMLDispatcher\bin\Debug\Problem04_HTMLDispatcher.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem04_HTMLDispatcher\obj\Debug\Problem04_HTMLDispatcher.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem04_HTMLDispatcher\obj\Debug\Problem04_HTMLDispatcher.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem04_HTMLDispatcher\obj\Debug\Problem04_HTMLDispatcher.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\PCCatalog\bin\Debug\PCCatalog.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\PCCatalog\bin\Debug\PCCatalog.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\PCCatalog\bin\Debug\PCCatalog.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\PCCatalog\obj\Debug\Problem03_PCCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\PCCatalog\obj\Debug\PCCatalog.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\PCCatalog\obj\Debug\PCCatalog.pdb

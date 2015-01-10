@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01_Point3D", "Point3D\Problem01_Point3D.csproj", "{1E543CED-8C09-46E4-BDDB-C81A18701273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02_DistanceCalculator", "Problem02_DistanceCalculator\Problem02_DistanceCalculator.csproj", "{71E9B7AF-578C-4613-98A7-B13258121836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03_Paths", "Problem03_Paths\Problem03_Paths.csproj", "{96DE3978-F3EC-422A-98EB-9146D58B2120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem04_HTMLDispatcher", "Problem04_HTMLDispatcher\Problem04_HTMLDispatcher.csproj", "{3A342304-FE47-4582-BE4E-DF797E91C954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem05_BitArray", "Problem05_BitArray\Problem05_BitArray.csproj", "{1CCBD37B-D2F4-48C2-B10A-A8747298E1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem06_Namespaces", "Problem06_Namespaces\Problem06_Namespaces.csproj", "{F6F26BCA-CFD4-40F6-B0D3-4B4FAC791C2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E543CED-8C09-46E4-BDDB-C81A18701273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E543CED-8C09-46E4-BDDB-C81A18701273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E543CED-8C09-46E4-BDDB-C81A18701273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E543CED-8C09-46E4-BDDB-C81A18701273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E9B7AF-578C-4613-98A7-B13258121836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E9B7AF-578C-4613-98A7-B13258121836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E9B7AF-578C-4613-98A7-B13258121836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E9B7AF-578C-4613-98A7-B13258121836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DE3978-F3EC-422A-98EB-9146D58B2120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DE3978-F3EC-422A-98EB-9146D58B2120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DE3978-F3EC-422A-98EB-9146D58B2120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DE3978-F3EC-422A-98EB-9146D58B2120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A342304-FE47-4582-BE4E-DF797E91C954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A342304-FE47-4582-BE4E-DF797E91C954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A342304-FE47-4582-BE4E-DF797E91C954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A342304-FE47-4582-BE4E-DF797E91C954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCBD37B-D2F4-48C2-B10A-A8747298E1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCBD37B-D2F4-48C2-B10A-A8747298E1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCBD37B-D2F4-48C2-B10A-A8747298E1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCBD37B-D2F4-48C2-B10A-A8747298E1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F26BCA-CFD4-40F6-B0D3-4B4FAC791C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F26BCA-CFD4-40F6-B0D3-4B4FAC791C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F26BCA-CFD4-40F6-B0D3-4B4FAC791C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F26BCA-CFD4-40F6-B0D3-4B4FAC791C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

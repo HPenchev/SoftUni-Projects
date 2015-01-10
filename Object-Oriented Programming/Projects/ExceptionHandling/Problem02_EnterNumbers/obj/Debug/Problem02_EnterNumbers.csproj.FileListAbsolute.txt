@@ -1,0 +1,6 @@
+c:\users\ico\documents\visual studio 2013\Projects\ExceptionHandling\Problem02_EnterNumbers\bin\Debug\Problem02_EnterNumbers.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\ExceptionHandling\Problem02_EnterNumbers\obj\Debug\Problem02_EnterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\ExceptionHandling\Problem02_EnterNumbers\bin\Debug\Problem02_EnterNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\ExceptionHandling\Problem02_EnterNumbers\bin\Debug\Problem02_EnterNumbers.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\ExceptionHandling\Problem02_EnterNumbers\obj\Debug\Problem02_EnterNumbers.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\ExceptionHandling\Problem02_EnterNumbers\obj\Debug\Problem02_EnterNumbers.pdb

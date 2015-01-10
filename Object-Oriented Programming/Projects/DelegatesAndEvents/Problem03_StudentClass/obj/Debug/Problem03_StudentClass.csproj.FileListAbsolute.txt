@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DelegatesAndEvents\Problem03_StudentClass\bin\Debug\Problem03_StudentClass.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DelegatesAndEvents\Problem03_StudentClass\obj\Debug\Problem03_StudentClass.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DelegatesAndEvents\Problem03_StudentClass\bin\Debug\Problem03_StudentClass.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DelegatesAndEvents\Problem03_StudentClass\bin\Debug\Problem03_StudentClass.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DelegatesAndEvents\Problem03_StudentClass\obj\Debug\Problem03_StudentClass.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DelegatesAndEvents\Problem03_StudentClass\obj\Debug\Problem03_StudentClass.pdb

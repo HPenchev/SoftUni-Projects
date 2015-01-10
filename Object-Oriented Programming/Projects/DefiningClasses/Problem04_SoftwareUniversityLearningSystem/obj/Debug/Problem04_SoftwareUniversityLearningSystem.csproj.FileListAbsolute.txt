@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem04_SoftwareUniversityLearningSystem\bin\Debug\Problem04_SoftwareUniversityLearningSystem.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem04_SoftwareUniversityLearningSystem\obj\Debug\Problem04_SoftwareUniversityLearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem04_SoftwareUniversityLearningSystem\bin\Debug\Problem04_SoftwareUniversityLearningSystem.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem04_SoftwareUniversityLearningSystem\bin\Debug\Problem04_SoftwareUniversityLearningSystem.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem04_SoftwareUniversityLearningSystem\obj\Debug\Problem04_SoftwareUniversityLearningSystem.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\DefiningClasses\Problem04_SoftwareUniversityLearningSystem\obj\Debug\Problem04_SoftwareUniversityLearningSystem.pdb

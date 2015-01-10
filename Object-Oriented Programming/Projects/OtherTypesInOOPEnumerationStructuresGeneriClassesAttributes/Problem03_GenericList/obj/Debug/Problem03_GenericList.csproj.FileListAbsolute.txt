@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\OtherTypesInOOPEnumerationStructuresGeneriClassesAttributes\Problem03_GenericList\bin\Debug\Problem03_GenericList.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\OtherTypesInOOPEnumerationStructuresGeneriClassesAttributes\Problem03_GenericList\obj\Debug\Problem03_GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\OtherTypesInOOPEnumerationStructuresGeneriClassesAttributes\Problem03_GenericList\bin\Debug\Problem03_GenericList.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\OtherTypesInOOPEnumerationStructuresGeneriClassesAttributes\Problem03_GenericList\bin\Debug\Problem03_GenericList.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\OtherTypesInOOPEnumerationStructuresGeneriClassesAttributes\Problem03_GenericList\obj\Debug\Problem03_GenericList.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\OtherTypesInOOPEnumerationStructuresGeneriClassesAttributes\Problem03_GenericList\obj\Debug\Problem03_GenericList.pdb

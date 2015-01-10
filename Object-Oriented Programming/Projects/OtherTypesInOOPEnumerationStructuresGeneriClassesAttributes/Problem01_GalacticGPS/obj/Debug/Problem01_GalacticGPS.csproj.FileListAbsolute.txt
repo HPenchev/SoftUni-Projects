@@ -1,0 +1,6 @@
+c:\users\ico\documents\visual studio 2013\Projects\OtherTypesInOOPEnumerationStructuresGeneriClassesAttributes\Problem01_GalacticGPS\bin\Debug\Problem01_GalacticGPS.exe.config
+c:\users\ico\documents\visual studio 2013\Projects\OtherTypesInOOPEnumerationStructuresGeneriClassesAttributes\Problem01_GalacticGPS\bin\Debug\Problem01_GalacticGPS.exe
+c:\users\ico\documents\visual studio 2013\Projects\OtherTypesInOOPEnumerationStructuresGeneriClassesAttributes\Problem01_GalacticGPS\bin\Debug\Problem01_GalacticGPS.pdb
+c:\users\ico\documents\visual studio 2013\Projects\OtherTypesInOOPEnumerationStructuresGeneriClassesAttributes\Problem01_GalacticGPS\obj\Debug\Problem01_GalacticGPS.csprojResolveAssemblyReference.cache
+c:\users\ico\documents\visual studio 2013\Projects\OtherTypesInOOPEnumerationStructuresGeneriClassesAttributes\Problem01_GalacticGPS\obj\Debug\Problem01_GalacticGPS.exe
+c:\users\ico\documents\visual studio 2013\Projects\OtherTypesInOOPEnumerationStructuresGeneriClassesAttributes\Problem01_GalacticGPS\obj\Debug\Problem01_GalacticGPS.pdb

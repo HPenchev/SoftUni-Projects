@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem03_Paths\bin\Debug\Problem03_Paths.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem03_Paths\obj\Debug\Problem03_Paths.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem03_Paths\bin\Debug\Problem03_Paths.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem03_Paths\bin\Debug\Problem03_Paths.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem03_Paths\obj\Debug\Problem03_Paths.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespaces\Problem03_Paths\obj\Debug\Problem03_Paths.pdb
