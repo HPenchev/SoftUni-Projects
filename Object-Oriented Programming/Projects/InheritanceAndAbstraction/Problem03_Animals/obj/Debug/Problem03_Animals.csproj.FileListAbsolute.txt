@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\InheritanceAndAbstraction\Problem03_Animals\bin\Debug\Problem03_Animals.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\InheritanceAndAbstraction\Problem03_Animals\obj\Debug\Problem03_Animals.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\InheritanceAndAbstraction\Problem03_Animals\bin\Debug\Problem03_Animals.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\InheritanceAndAbstraction\Problem03_Animals\bin\Debug\Problem03_Animals.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\InheritanceAndAbstraction\Problem03_Animals\obj\Debug\Problem03_Animals.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\InheritanceAndAbstraction\Problem03_Animals\obj\Debug\Problem03_Animals.pdb
