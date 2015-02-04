@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\EncapsulationAndPlymorphism\Problem02_BankOfKurtovoKonare\bin\Debug\Problem02_BankOfKurtovoKonare.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\EncapsulationAndPlymorphism\Problem02_BankOfKurtovoKonare\bin\Debug\Problem02_BankOfKurtovoKonare.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\EncapsulationAndPlymorphism\Problem02_BankOfKurtovoKonare\bin\Debug\Problem02_BankOfKurtovoKonare.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\EncapsulationAndPlymorphism\Problem02_BankOfKurtovoKonare\obj\Debug\Problem02_BankOfKurtovoKonare.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\EncapsulationAndPlymorphism\Problem02_BankOfKurtovoKonare\obj\Debug\Problem02_BankOfKurtovoKonare.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\EncapsulationAndPlymorphism\Problem02_BankOfKurtovoKonare\obj\Debug\Problem02_BankOfKurtovoKonare.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\EncapsulationAndPlymorphism\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\EncapsulationAndPlymorphism\Shapes\obj\Debug\Shapes.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\EncapsulationAndPlymorphism\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\EncapsulationAndPlymorphism\Shapes\bin\Debug\Shapes.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\EncapsulationAndPlymorphism\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\EncapsulationAndPlymorphism\Shapes\obj\Debug\Problem01_Shapes.csprojResolveAssemblyReference.cache
