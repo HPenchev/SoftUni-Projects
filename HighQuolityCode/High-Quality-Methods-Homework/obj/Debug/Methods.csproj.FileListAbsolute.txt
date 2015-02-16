@@ -1,0 +1,5 @@
+C:\Users\Ico\Desktop\KPK\Homeworks\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Desktop\KPK\Homeworks\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+C:\Users\Ico\Desktop\KPK\Homeworks\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+C:\Users\Ico\Desktop\KPK\Homeworks\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+C:\Users\Ico\Desktop\KPK\Homeworks\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ico\Desktop\KPK\Homeworks\Naming Identifiers\C#\Mini4ki\bin\Debug\Minesweeper.exe
+C:\Users\Ico\Desktop\KPK\Homeworks\Naming Identifiers\C#\Mini4ki\bin\Debug\Minesweeper.pdb
+C:\Users\Ico\Desktop\KPK\Homeworks\Naming Identifiers\C#\Mini4ki\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Desktop\KPK\Homeworks\Naming Identifiers\C#\Mini4ki\obj\Debug\Minesweeper.exe
+C:\Users\Ico\Desktop\KPK\Homeworks\Naming Identifiers\C#\Mini4ki\obj\Debug\Minesweeper.pdb

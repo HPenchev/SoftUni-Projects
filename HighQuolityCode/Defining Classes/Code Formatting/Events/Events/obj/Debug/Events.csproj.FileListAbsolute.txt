@@ -1,0 +1,8 @@
+c:\users\ico\documents\visual studio 2013\Projects\Events\Events\bin\Debug\Events.exe.config
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\Events\Events\bin\Debug\Events.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\Events\Events\bin\Debug\Events.pdb
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\Events\Events\bin\Debug\PowerCollections.dll
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\Events\Events\bin\Debug\PowerCollections.xml
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\Events\Events\obj\Debug\Events.exe
+C:\Users\Ico\Documents\Visual Studio 2013\Projects\Events\Events\obj\Debug\Events.pdb

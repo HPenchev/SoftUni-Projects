@@ -1,0 +1,5 @@
+C:\Users\Ico\Desktop\KPK\Homeworks\Code Documentation and Comments\C#\bin\Debug\StringExtensions.dll
+C:\Users\Ico\Desktop\KPK\Homeworks\Code Documentation and Comments\C#\bin\Debug\StringExtensions.pdb
+C:\Users\Ico\Desktop\KPK\Homeworks\Code Documentation and Comments\C#\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Desktop\KPK\Homeworks\Code Documentation and Comments\C#\obj\Debug\StringExtensions.dll
+C:\Users\Ico\Desktop\KPK\Homeworks\Code Documentation and Comments\C#\obj\Debug\StringExtensions.pdb
