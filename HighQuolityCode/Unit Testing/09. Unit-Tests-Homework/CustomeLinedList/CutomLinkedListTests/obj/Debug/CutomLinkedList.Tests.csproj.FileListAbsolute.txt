@@ -1,0 +1,7 @@
+C:\Users\Ico\Desktop\KPK\Homeworks\Unit Testing\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\bin\Debug\CutomLinkedListTests.dll
+C:\Users\Ico\Desktop\KPK\Homeworks\Unit Testing\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\bin\Debug\CutomLinkedListTests.pdb
+C:\Users\Ico\Desktop\KPK\Homeworks\Unit Testing\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\bin\Debug\CustomLinkedList.dll
+C:\Users\Ico\Desktop\KPK\Homeworks\Unit Testing\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\bin\Debug\CustomLinkedList.pdb
+C:\Users\Ico\Desktop\KPK\Homeworks\Unit Testing\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\obj\Debug\CutomLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ico\Desktop\KPK\Homeworks\Unit Testing\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\obj\Debug\CutomLinkedListTests.dll
+C:\Users\Ico\Desktop\KPK\Homeworks\Unit Testing\09. Unit-Tests-Homework\CustomeLinedList\CutomLinkedListTests\obj\Debug\CutomLinkedListTests.pdb
