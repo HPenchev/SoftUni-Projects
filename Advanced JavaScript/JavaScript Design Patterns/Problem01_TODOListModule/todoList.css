@@ -1,0 +1,40 @@
+body {
+    border: 3px solid black;
+    width: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+input {
+    margin: 10px;
+    display: inline-block;
+}
+
+main {
+    padding-left: 0;
+}
+
+h2 {
+    text-align: right;
+}
+
+.inner-div {
+    display: inline-block;
+    width: 400px;
+    border-bottom: 1px solid black;
+}
