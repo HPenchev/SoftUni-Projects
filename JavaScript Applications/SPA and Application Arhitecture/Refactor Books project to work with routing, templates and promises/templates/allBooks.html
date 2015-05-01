@@ -1,0 +1,20 @@
+<ul id="books-list">
+    {{#books}}
+    <li id="{{objectId}}">
+        <span class="title">{{title}}</span>
+        <input type="button" class="edit-book" value="Edit book"/>
+        <input type="button" class="delete-book" value="Delete book"/>
+    </li>
+    {{/books}}
+</ul>
+
+<form>
+    <div>Add new book</div>
+    <label for="new-book-name">Book title: </label>
+    <input type="text", id="new-book-name", placeholder="enter book's name"/><br/>
+    <label for="new-book-author">Author name: </label>
+    <input type="text", id="new-book-author", placeholder="enter book's author"/><br/>
+    <label for="new-book-isbn">ISDN: </label>
+    <input type="text", id="new-book-isbn", placeholder="enter book's isdn"/><br/>
+    <input type="button" id="submit-new-book" value="Submit"/>
+</form>
