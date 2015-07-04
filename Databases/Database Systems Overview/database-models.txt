@@ -1,0 +1,2 @@
+The flat data model represents a single two-dementional table. Columns have similar type of values while all members of a row are connected to one another.
+This is the precursor of a relational model.

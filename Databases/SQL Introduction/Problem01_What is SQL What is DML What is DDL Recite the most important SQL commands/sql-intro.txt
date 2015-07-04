@@ -1,0 +1,25 @@
+SQL (Structured Query Language) is a special-purpose programming language designed for managing data held in a 
+relational database management system (RDBMS), or for stream processing in a relational data stream management system 
+(RDSMS). Originally based upon relational algebra and tuple relational calculus, SQL consists of a data definition 
+language and a data manipulation language. The scope of SQL includes data insert, query, update and delete, schema 
+creation and modification, and data access control.
+Source: https://en.wikipedia.org/wiki/SQL
+
+A data manipulation language (DML) is a family of syntax elements similar to a computer programming language used for 
+selecting, inserting, deleting and updating data in a database. Performing read-only queries of data is sometimes also 
+considered a component of DML. A popular data manipulation language is that of Structured Query Language (SQL), which is 
+used to retrieve and manipulate data in a relational database. Other forms of DML are those used by IMS/DLI, CODASYL 
+databases, such as IDMS and others. Data manipulation language comprises the SQL data change statements, which modify 
+stored data but not the schema or database objects. 
+Source: https://en.wikipedia.org/wiki/Data_manipulation_language
+
+A data definition language or data description language (DDL) is a syntax similar to a computer programming language for 
+defining data structures, especially database schemas. Many data description languages use a declarative syntax to define 
+fields and data types. SQL, however, uses a collection of imperative verbs whose effect is to modify the schema of the 
+database by adding, changing, or deleting definitions of tables or other objects. 
+Source: https://en.wikipedia.org/wiki/Data_definition_language
+
+SELECT - Selects information from a database
+INSERT - Adds a row in a table database
+UPDATE - Updates information into an existing database row
+DELETE - Deletes a row

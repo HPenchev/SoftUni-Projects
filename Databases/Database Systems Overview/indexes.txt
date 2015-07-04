@@ -1,0 +1,8 @@
+A database index is a data structure that improves the speed of data retrieval operations on a database table at the cost 
+of additional writes and storage space to maintain the index data structure.
+Methods:
+Non-clustered - An ordered copy of indexed column elements is created where each element contains a link to the memory where the original row is.
+Clustered - Clustering alters the data block into a certain distinct order to match the index, resulting in the row data being stored in order.
+Cluster - used when two or more tables are joined together.The records for the tables sharing the value of a cluster key shall be stored together.
+
+Indexation speeds up searching in tables but slows adding and deleting

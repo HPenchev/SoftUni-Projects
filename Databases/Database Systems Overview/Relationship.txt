@@ -1,0 +1,3 @@
+many to one/one to many - each record in a table has many corresponding records in another table
+many to many - records in the first table have many corresponding records in the second one and vice versa
+one to one - a single record in a table corresponds to a single record in the other table

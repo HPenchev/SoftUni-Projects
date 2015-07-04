@@ -1,0 +1,2 @@
+Primary key is a unique identifier of a table. It is usually a number. Foreign key is generally a unique identifier of another
+table. It gives a row of another table as a value of a certain table cell.

@@ -1,0 +1,34 @@
+Допускаме, че n е дължината на масива
+
+Problem01_Add(T) Complexity
+O(n)
+
+Problem02_Remove(index) Complexity – Worst Case
+O(n)
+
+Problem03_Remove(index) Complexity – Best Case
+O(n)
+
+Problem04_Remove(index) Complexity – Average Case
+O(n)
+
+Problem05_RemoveFirst(T) Complexity
+O(n)
+
+Problem06_RemoveLast(T) Complexity
+O(n)
+
+Независимо от това кое число махаме, ние винаги копираме целия предходен масив и го поставяме в нов масив. Тоест извършваме
+копиране на елемент n - 1 Брой пъти, независимо кой елемент в редицата махаме.
+
+Problem07_Length Complexity
+O(Const)
+
+Problem08_This[index] Complexity
+O(Const)
+
+Problem09_First Complexity
+o(Const)
+
+Problem10_RemoveFirst(T) Complexity
+O(Const)

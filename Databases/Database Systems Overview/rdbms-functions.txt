@@ -1,0 +1,2 @@
+Creating, changing and deleting tables and relationships between them. Creating, changing, deleting and retrieving data from
+tables. SQL support. Transactions support.

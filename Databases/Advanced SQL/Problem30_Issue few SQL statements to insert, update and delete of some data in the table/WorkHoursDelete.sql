@@ -1,0 +1,2 @@
+DELETE FROM WorkHours
+WHERE Id = 3

@@ -1,0 +1,4 @@
+Transactions are atomic operations that alter database only when all the operations in the transaction are completed.
+In case the transaction gets interrupted, it keeps back up and returns the data to its original state. For example money 
+transfer is a transaction - when money is withdrawn from someone's account it has to be received from the rescepient. 
+Otherwise it will not be confirmed and the amount would be returned to the account of the sender.

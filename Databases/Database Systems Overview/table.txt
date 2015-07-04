@@ -1,0 +1,3 @@
+A table is a set of data elements (values) using a model of vertical columns (which are identified by their name) and horizontal rows.
+Data doesn't need to be physically stored into relation model database table but it can be calculated in query time .A table and a relation
+are not exactly equivalent. A table can contain duplicates while relation items are unique.Generally table is a representation of relation

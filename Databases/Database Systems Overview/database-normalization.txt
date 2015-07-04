@@ -1,0 +1,6 @@
+Database normalization is when table content is separated on smaller tables and relationships between them 
+are built via foreign keys.
+Advantages:
+When updating details of an object it needs to be updated at one place only. It is possible to create an object without all
+elements connected.
+Easier redesign when extending database structure

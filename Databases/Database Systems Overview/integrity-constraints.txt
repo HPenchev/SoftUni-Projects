@@ -1,0 +1,5 @@
+Integrity constraints apply rules for the data that can't be violated. 
+Primary key constraint - ensures that each primary key in a table is unique
+Unique key constraint - ensures that each value ina a column is unique
+Foreign key constraint - ensures that all values in a column are keys from another table
+Check constraint - ensures that a value meets some predefined condition
