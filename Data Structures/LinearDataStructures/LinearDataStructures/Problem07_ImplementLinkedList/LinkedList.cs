@@ -61,6 +61,11 @@ public class LinkedList<T> : IEnumerable<T>
         }
         else
         {
+            if (this.tail = node.NextNode)
+            {
+                this.tail = previousNode;
+            }
+
             previousNode.NextNode = node.NextNode;
         }
         
