@@ -7,13 +7,13 @@
     public class Course
     {
         private ICollection<Student> students;
-        private ICollection<Resource> resources;
+        private ICollection<Resource> resourses;
         private ICollection<Homework> homeworks;
 
         public Course()
         {
             this.students = new HashSet<Student>();
-            this.resources = new HashSet<Resource>();
+            this.resourses = new HashSet<Resource>();
             this.homeworks = new HashSet<Homework>();
         }
 
@@ -21,6 +21,7 @@
         public int Id { get; set; }
 
         [Required]
+        [MinLength(1)]
         public string Name { get; set; }
 
         public string Description { get; set; }
@@ -29,7 +30,7 @@
         public DateTime StartDate { get; set; }
 
         [Required]
-        public DateTime EndtDate { get; set; }
+        public DateTime EndDate { get; set; }
 
         [Required]
         public decimal Price { get; set; }
@@ -47,16 +48,16 @@
             }
         }
 
-        public virtual ICollection<Resource> Resources
+        public virtual ICollection<Resource> Resourses
         {
             get
             {
-                return this.resources;
+                return this.resourses;
             }
 
             set
             {
-                this.resources = value;
+                this.resourses = value;
             }
         }
 
