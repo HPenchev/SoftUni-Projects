@@ -10,9 +10,7 @@ namespace Problem03_SelectEverVsSelectCertain
     class Program
     {
         static void Main()
-        {
-            var stwatch = new Stopwatch();
-            stwatch.Start();
+        {            
             var context = new AdsEntities();
             long sum = 0L;
             long[] performanceMeasures = new long[10];
@@ -29,14 +27,24 @@ namespace Problem03_SelectEverVsSelectCertain
                 Console.WriteLine(performanceMeasures[i]);
             }
 
-            Console.WriteLine("Average fast:" + (double)sum / 10);
+            Console.WriteLine("Average slow:" + (double)sum / 10);
 
-            for (int i = 0; i < 100000; i++)
-            {
-                Console.WriteLine("Azis e pederas");
-            }
+            //sum = 0L;
+            //performanceMeasures = new long[10];
 
-            Console.WriteLine(stwatch.Elapsed);
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    long time = TestFastSelect(context);
+            //    performanceMeasures[i] = time;
+            //    sum += time;
+            //}
+
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    Console.WriteLine(performanceMeasures[i]);
+            //}
+
+            //Console.WriteLine("Average fast:" + (double)sum / 10); 
 
             Console.ReadLine();
         }
@@ -46,7 +54,7 @@ namespace Problem03_SelectEverVsSelectCertain
             context.Database.SqlQuery<string>("CHECKPOINT");
             context.Database.SqlQuery<string>("DBCC DROPCLEANBUFFERS");
             var stopWatch = new Stopwatch();
-
+            stopWatch.Start();
             var ads = context.Ads;
 
             foreach (var ad in ads)
@@ -58,5 +66,23 @@ namespace Problem03_SelectEverVsSelectCertain
             return time;
         }
 
+        public static long TestFastSelect(AdsEntities context)
+        {
+            context.Database.SqlQuery<string>("CHECKPOINT");
+            context.Database.SqlQuery<string>("DBCC DROPCLEANBUFFERS");
+            var stopWatch = new Stopwatch();
+            stopWatch.Start();
+
+            var ads = context.Ads
+                .Select(a => a.Title);
+
+            foreach (var ad in ads)
+            {
+                Console.WriteLine(ad);
+            }
+
+            long time = stopWatch.ElapsedMilliseconds;
+            return time;
+        }
     }
 }
