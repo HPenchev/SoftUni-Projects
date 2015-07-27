@@ -1,3 +1,5 @@
 	       Run 1	Run 2	Run 3	Run 4  Run 5	Run 6  Run 7	Run 8  Run 9  Run 10	Average time
-Non-optimized	0	0	0	0	0        0       0        0     0        0         0
-Optimized	0         0      0       0       0        0        0      0      0        0         0		
+Non-optimized	3339	2758	2249	2204	2285    2246   2261     2108    2278    2191      2391.9
+Optimized	2742    2405    2528    2441    2238    2461   2298     2281    2273    2255      2392.2
+
+It seems the non-optimized algorithm is not optimized at all. I guess C#is smart enough to fix our errors compile time.		

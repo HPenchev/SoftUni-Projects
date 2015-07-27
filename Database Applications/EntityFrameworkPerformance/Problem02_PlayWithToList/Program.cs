@@ -12,28 +12,12 @@ namespace Problem02_PlayWithToList
         static void Main()
         {
             var context = new AdsEntities();
+            
+            long time = SlowOrder(context);
+            Console.WriteLine(time);
 
-            long sum = 0L;
-
-            for (int i = 0; i < 10; i++)
-            {
-                long time = SlowOrder(context);
-                Console.WriteLine(time);
-                sum += time;
-            }
-
-            Console.WriteLine("Average slow:" + (double)sum / 10);
-
-            //sum = 0L;
-
-            //for (int i = 0; i < 10; i++)
-            //{
-            //    long time = FastOrder(context);
-            //    Console.WriteLine(time);
-            //    sum += time;
-            //}
-
-            //Console.WriteLine("Average fast:" + (double)sum / 10);
+            time = FastOrder(context);
+            Console.WriteLine(time);       
 
             Console.ReadLine();
         }

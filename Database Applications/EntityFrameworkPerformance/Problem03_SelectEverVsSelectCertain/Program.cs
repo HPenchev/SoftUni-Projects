@@ -12,39 +12,12 @@ namespace Problem03_SelectEverVsSelectCertain
         static void Main()
         {            
             var context = new AdsEntities();
-            long sum = 0L;
-            long[] performanceMeasures = new long[10];
+                   
+            //long time = TestSlowSelect(context);
+            //Console.WriteLine(time);
 
-            for (int i = 0; i < 10; i++)
-            {
-                long time = TestSlowSelect(context);
-                performanceMeasures[i] = time;
-                sum += time;
-            }
-
-            for (int i = 0; i < 10; i++)
-            {
-                Console.WriteLine(performanceMeasures[i]);
-            }
-
-            Console.WriteLine("Average slow:" + (double)sum / 10);
-
-            //sum = 0L;
-            //performanceMeasures = new long[10];
-
-            //for (int i = 0; i < 10; i++)
-            //{
-            //    long time = TestFastSelect(context);
-            //    performanceMeasures[i] = time;
-            //    sum += time;
-            //}
-
-            //for (int i = 0; i < 10; i++)
-            //{
-            //    Console.WriteLine(performanceMeasures[i]);
-            //}
-
-            //Console.WriteLine("Average fast:" + (double)sum / 10); 
+            long time = TestSlowSelect(context);
+            Console.WriteLine(time);
 
             Console.ReadLine();
         }
