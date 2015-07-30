@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<catalogue name="Music Catalogue">
+  <album>
+    <name>OK Computer</name>
+    <artist>Radiohead</artist>
+    <year>1997</year>
+    <producer>Nigel Godrich</producer>
+    <price>10.84</price>
+    <songs>
+      <song>
+        <title>Airbag</title>
+        <duration>4:44</duration>
+      </song>
+      <song>
+        <title>Paranoid Android</title>
+        <duration>6:23</duration>
+      </song>
+      <song>
+        <title>Subterranean Homesick Alien</title>
+        <duration>4:27</duration>
+      </song>
+      <song>
+        <title>Exit Music (For a Film)</title>
+        <duration>4:24</duration>
+      </song>
+      <song>
+        <title>Let Down</title>
+        <duration>4:59</duration>
+      </song>
+      <song>
+        <title>Karma Police</title>
+        <duration>4:21</duration>
+      </song>
+      <song>
+        <title>Fitter Happier</title>
+        <duration>1:57</duration>
+      </song>
+      <song>
+        <title>Electioneering</title>
+        <duration>3:50</duration>
+      </song>
+      <song>
+        <title>Climbing Up the Walls</title>
+        <duration>4:45</duration>
+      </song>
+      <song>
+        <title>No Surprises</title>
+        <duration>3:48</duration>
+      </song>
+      <song>
+        <title>Lucky</title>
+        <duration>4:19</duration>
+      </song>
+      <song>
+        <title>The Tourist</title>
+        <duration>5:24</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Third</name>
+    <artist>Portishead</artist>
+    <year>2008</year>
+    <producer>Portishead</producer>
+    <price>13.30</price>
+    <songs>
+      <song>
+        <title>Silence</title>
+        <duration>4:58</duration>
+      </song>
+      <song>
+        <title>Hunter</title>
+        <duration>3:57</duration>
+      </song>
+      <song>
+        <title>Nylon Smile</title>
+        <duration>3:16</duration>
+      </song>
+      <song>
+        <title>The Rip</title>
+        <duration>4:29</duration>
+      </song>
+      <song>
+        <title>Plastic</title>
+        <duration>3:27</duration>
+      </song>
+      <song>
+        <title>We Carry On</title>
+        <duration>6:27</duration>
+      </song>
+      <song>
+        <title>Deep Water</title>
+        <duration>1:31</duration>
+      </song>
+      <song>
+        <title>Machine Gun</title>
+        <duration>4:43</duration>
+      </song>
+      <song>
+        <title>Small</title>
+        <duration>6:45</duration>
+      </song>
+      <song>
+        <title>Magic Doors</title>
+        <duration>3:32</duration>
+      </song>
+      <song>
+        <title>Thread</title>
+        <duration>5:45</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>

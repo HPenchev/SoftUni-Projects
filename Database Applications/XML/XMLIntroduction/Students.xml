@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<students xmlns="urn:students">
+  <student>
+    <name>Pesho Peshov</name>
+    <gender>Male</gender>
+    <birth-date>1990-03-12</birth-date>
+    <phone-number>0896 265 999</phone-number>
+    <email>pesho@abv.bg</email>
+    <university>Software University</university>
+    <speciality>Programming</speciality>
+    <faculty-number>9896658</faculty-number>
+    <taken-exams>
+      <exam>
+        <exam-name>C# Basics</exam-name>
+        <date-taken>2014-08-31</date-taken>
+        <grade>6</grade>
+      </exam>
+      <exam>
+        <exam-name>Java Basics</exam-name>
+        <date-taken>2014-09-25</date-taken>
+        <grade>5</grade>
+      </exam>
+      <exam>
+        <exam-name>Web Fundamentals</exam-name>
+        <date-taken>2014-11-20</date-taken>
+        <grade>6</grade>
+      </exam>
+    </taken-exams>
+  </student>
+  <student>
+    <name>Gosho Goshev</name>
+    <gender>Male</gender>
+    <birth-date>1986-01-10</birth-date>
+    <email>gosho@gmail.com</email>
+    <university>Sofia University "St. Kliment Ohridski"</university>
+    <speciality>Computer Science</speciality>
+    <faculty-number>5949849</faculty-number>
+    <taken-exams>
+      <exam>
+        <exam-name>Mathematics I</exam-name>
+        <date-taken>2014-01-31</date-taken>
+        <grade>4</grade>
+      </exam>
+      <exam>
+        <exam-name>Mathematics II</exam-name>
+        <date-taken>2014-02-05</date-taken>
+        <grade>5</grade>
+      </exam>
+    </taken-exams>
+  </student>
+  <student>
+    <name>Maria Ivanova</name>
+    <gender>Female</gender>
+    <birth-date>1992-04-02</birth-date>
+    <phone-number>0875999896</phone-number>
+    <email>mariika@gmail.com</email>
+    <university>UNWE</university>
+    <speciality>Macroeconomics</speciality>
+    <taken-exams>
+      <exam>
+        <exam-name>Economic History</exam-name>
+        <date-taken>2014-12-18</date-taken>
+        <grade>3</grade>
+      </exam>
+      <exam>
+        <exam-name>Microeconomics</exam-name>
+        <date-taken>2014-12-20</date-taken>
+        <grade>5</grade>
+      </exam>
+      <exam>
+        <exam-name>Economics Theories</exam-name>
+        <date-taken>2014-12-21</date-taken>
+        <grade>6</grade>
+      </exam>
+    </taken-exams>
+  </student>
+  <student>
+    <name>Ivan Ivanov</name>
+    <gender>Male</gender>
+    <birth-date>1995-03-01</birth-date>
+    <email>rocketgirl@gmail.com</email>
+    <university>Russian Missile Academy</university>
+    <speciality>Rocket Science</speciality>
+    <taken-exams>
+      <exam>
+        <exam-name>USA Targeting Nukes</exam-name>
+        <date-taken>2014-12-18</date-taken>
+        <grade>5</grade>
+      </exam>
+      <exam>
+        <exam-name>EU Targeting Rockets</exam-name>
+        <date-taken>2014-12-20</date-taken>
+        <grade>5</grade>
+      </exam>
+    </taken-exams>
+  </student>
+</students>

@@ -7,5 +7,6 @@ public class News
 
     [Required]
     [MinLength(1)]
+    [ConcurrencyCheck]
     public string NewsContent { get; set; }
 }
