@@ -1,0 +1,52 @@
+[
+  {
+    "isbn": "660097222-X",
+    "title": "Prisoners (2013)",
+    "favouritedBy": "[\r\n  \"tmurphy1\",\r\n  \"tgrant4\",\r\n  \"mgeorgeh\",\r\n  \"dburket\",\r\n  \"bhamilton1n\",\r\n  \"ksims1s\"\r\n]"
+  },
+  {
+    "isbn": "653288544-4",
+    "title": "Amores Perros (2000)",
+    "favouritedBy": "[\r\n  \"tmurphy1\",\r\n  \"tgrant4\",\r\n  \"jhowarda\",\r\n  \"tbennettb\",\r\n  \"jgibson1j\"\r\n]"
+  },
+  {
+    "isbn": "685416258-0",
+    "title": "Django Unchained (2012)",
+    "favouritedBy": "[\r\n  \"djenkinsv\",\r\n  \"lelliottx\",\r\n  \"anichols18\",\r\n  \"vnguyen1h\",\r\n  \"rcarr1u\"\r\n]"
+  },
+  {
+    "isbn": "292760458-4",
+    "title": "Million Dollar Baby (2004)",
+    "favouritedBy": "[\r\n  \"cbryant7\",\r\n  \"aandersonl\",\r\n  \"whernandezz\",\r\n  \"emartinez1d\"\r\n]"
+  },
+  {
+    "isbn": "643772842-6",
+    "title": "Raging Bull (1980)",
+    "favouritedBy": "[\r\n  \"gmartin2\",\r\n  \"prodriguezj\",\r\n  \"pblacko\",\r\n  \"bjohnson1p\"\r\n]"
+  },
+  {
+    "isbn": "913952331-4",
+    "title": "Scarface (1983)",
+    "favouritedBy": "[\r\n  \"pmoore0\",\r\n  \"jhughesp\",\r\n  \"along1f\",\r\n  \"amason1m\"\r\n]"
+  },
+  {
+    "isbn": "211868397-9",
+    "title": "The Hustler (1961)",
+    "favouritedBy": "[\r\n  \"drodriguezq\",\r\n  \"mbradleyu\",\r\n  \"pmorenow\",\r\n  \"amorgan17\"\r\n]"
+  },
+  {
+    "isbn": "790319651-0",
+    "title": "The Shining (1980)",
+    "favouritedBy": "[\r\n  \"tgrant4\",\r\n  \"malexanderf\",\r\n  \"mbradleyu\",\r\n  \"mking1t\"\r\n]"
+  },
+  {
+    "isbn": "818098605-5",
+    "title": "Goodfellas (1990)",
+    "favouritedBy": "[\r\n  \"pblacko\",\r\n  \"dwest11\",\r\n  \"rgibson1k\"\r\n]"
+  },
+  {
+    "isbn": "064553220-7",
+    "title": "La Strada (1954)",
+    "favouritedBy": "[\r\n  \"rwashingtonc\",\r\n  \"whernandezz\",\r\n  \"crussell1e\"\r\n]"
+  }
+]
