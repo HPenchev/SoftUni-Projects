@@ -8,6 +8,7 @@ namespace Battleships.Data.Migrations
         {
             this.AutomaticMigrationsEnabled = true;
             this.AutomaticMigrationDataLossAllowed = false;
+            //ContextKey = "Battleships";
         }
     }
 }

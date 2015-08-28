@@ -6,13 +6,11 @@
 
     public class Game
     {
-        private ICollection<Ship> ships;
         public Game()
         {
             this.Id = Guid.NewGuid();
             this.Field = new string('O', 64);
             this.State = GameState.WaitingForPlayer;
-            this.ships = new HashSet<Ship>();
         }
 
         public Guid Id { get; set; }
@@ -30,17 +28,6 @@
 
         public virtual ApplicationUser PlayerTwo { get; set; }
 
-        public virtual ICollection<Ship> Ships
-        { 
-            get
-            {
-                return this.ships;
-            }
-
-            set
-            {
-                this.ships = value;
-            }
-        }
+        public virtual ICollection<Ship> Ships { get; set; }
     }
 }

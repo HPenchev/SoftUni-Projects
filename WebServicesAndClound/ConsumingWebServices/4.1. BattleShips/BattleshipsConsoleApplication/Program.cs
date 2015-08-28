@@ -10,6 +10,8 @@ namespace BattleshipsConsoleApplication
     {
         static void Main(string[] args)
         {
+            var gameEngine = new GameEngine();
+            gameEngine.Run();
         }
     }
 }

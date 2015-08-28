@@ -14,12 +14,8 @@
     [Authorize]
     public class GamesController : BaseApiController
     {
-        private const int numberOfShips = 10;
-        private const int xMax = 8;
-        private const int yMax = 8;
         private IUserIdProvider userIdProvider;
-        private static Random rnd = new Random();
-               
+        
         public GamesController(IBattleshipsData data, IUserIdProvider userIdProvider) 
             : base(data)
         {
@@ -39,10 +35,10 @@
             var userId = this.userIdProvider.GetUserId();
             var game = new Game
             {
-                PlayerOneId = userId,                
-            };
+                PlayerOneId = userId,
 
-            GenerateShips(game, userId);
+                // TODO: Generate ships
+            };
 
             this.Data.Games.Add(game);
             this.Data.SaveChanges();
@@ -149,34 +145,6 @@
             this.Data.SaveChanges();
 
             return this.Ok();
-        }
-
-        private void GenerateShips(Game game, string playerId)
-        {
-            while (true)
-            {
-                int numberOfShipsInGame = game.Ships.Where(s => s.Player.Id.ToString() == playerId).Count();
-                if (numberOfShipsInGame >= numberOfShips)
-                {
-                    break;
-                }
-
-                int x = rnd.Next(xMax);
-                int y = rnd.Next(xMax);
-
-                if (!game.Ships.Any(s => s.PositionX == x && s.PositionY == y))
-                {
-                    var ship = new Ship()
-                    {
-                        PositionX = x,
-                        PositionY = y,
-                        Game = game,
-                        Player = this.Data.Users.Find(playerId)
-                    };
-
-                    game.Ships.Add(ship);
-                }               
-            }
         }
     }
 }

@@ -9,7 +9,8 @@ namespace BattleshipsConsoleApplication
             while (true)
             {
                 string input = Console.ReadLine();
-                string output = CommandProcessor.ProcessCommand(input);
+                CommandProcessor.ProcessCommand(input);
+                //Console.WriteLine(output);
             }
         }
     }
