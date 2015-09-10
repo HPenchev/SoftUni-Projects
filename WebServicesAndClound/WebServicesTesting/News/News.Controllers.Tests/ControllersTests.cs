@@ -87,6 +87,7 @@ namespace News.Controllers.Tests
             var repo = CreateRepo();
             var controller = new NewsController(repo);
             SetupController(controller, "news");
+            controller.ModelState.AddModelError("fakeError", "fakeError");
 
             var news = new NewsPostBindingModel()
             {
@@ -98,8 +99,7 @@ namespace News.Controllers.Tests
                 controller.PostNews(news).ExecuteAsync(new CancellationToken()).Result;
 
             Assert.AreEqual(HttpStatusCode.BadRequest, result.StatusCode);
-            Assert.IsNotNull(result.Headers.Location);
-
+         
             news = new NewsPostBindingModel()
             {
                 Title = "News4",
@@ -109,8 +109,7 @@ namespace News.Controllers.Tests
             result =
                 controller.PostNews(news).ExecuteAsync(new CancellationToken()).Result;
 
-            Assert.AreEqual(HttpStatusCode.BadRequest, result.StatusCode);
-            Assert.IsNotNull(result.Headers.Location);
+            Assert.AreEqual(HttpStatusCode.BadRequest, result.StatusCode);            
 
             news = new NewsPostBindingModel()
             {
@@ -121,8 +120,135 @@ namespace News.Controllers.Tests
             result =
                 controller.PostNews(news).ExecuteAsync(new CancellationToken()).Result;
 
+            Assert.AreEqual(HttpStatusCode.BadRequest, result.StatusCode);           ;
+        }
+
+        [TestMethod]
+        public void UpdateNews_WhenDataIsCorrect_ShouldReturnStatusCodeOk()
+        {
+            var repo = CreateRepo();
+            var controller = new NewsController(repo);
+            SetupController(controller, "news");
+            var news = new NewsPostBindingModel()
+            {
+                Title = "Updated News",
+                Content = "Updated news content",
+                PublishDate = DateTime.Parse("22.01.2014")
+            };
+
+            var result =
+                controller.UpdateNews(1, news).ExecuteAsync(new CancellationToken()).Result;
+
+            Assert.AreEqual(HttpStatusCode.OK, result.StatusCode);
+         
+            // Assert the repository values are correct
+            Assert.AreEqual(3, repo.News.Count());
+            var newsInRepo = repo.News[0];
+            Assert.AreEqual("Updated News", newsInRepo.Title);
+            Assert.AreEqual("Updated news content", newsInRepo.Content);
+            Assert.AreEqual(new DateTime(2014, 1, 22), newsInRepo.PublishDate);
+            Assert.AreEqual(1, newsInRepo.Id);
+            Assert.IsTrue(repo.IsSaved);
+        }
+
+        [TestMethod]
+        public void UpdateNews_WhenDataIsInvalid_ShouldReturnStatusCodeBadRequest()
+        {
+            var repo = CreateRepo();
+            var controller = new NewsController(repo);
+            SetupController(controller, "news");
+            controller.ModelState.AddModelError("fakeError", "fakeError");
+
+            var news = new NewsPostBindingModel()
+            {
+                Content = "Content4",
+                PublishDate = DateTime.Parse("22.01.2014")
+            };
+
+            var result =
+                controller.UpdateNews(1, news).ExecuteAsync(new CancellationToken()).Result;
+
             Assert.AreEqual(HttpStatusCode.BadRequest, result.StatusCode);
-            Assert.IsNotNull(result.Headers.Location);
+
+            news = new NewsPostBindingModel()
+            {
+                Title = "News4",
+                PublishDate = DateTime.Parse("22.01.2014")
+            };
+
+            result =
+                controller.UpdateNews(1, news).ExecuteAsync(new CancellationToken()).Result;
+
+            Assert.AreEqual(HttpStatusCode.BadRequest, result.StatusCode);
+
+            news = new NewsPostBindingModel()
+            {
+                Title = "News4",
+                Content = "Content4"
+            };
+
+            result =
+                controller.UpdateNews(1, news).ExecuteAsync(new CancellationToken()).Result;
+
+            Assert.AreEqual(HttpStatusCode.BadRequest, result.StatusCode); ;
+        }
+
+        [TestMethod]
+        public void UpdateNews_WhenNewsIdIsInvalid_ShouldReturnStatusCodeBadRequest()
+        {
+            var repo = CreateRepo();
+            var controller = new NewsController(repo);
+            SetupController(controller, "news");
+
+            var news = new NewsPostBindingModel()
+            {
+                Title = "Updated Title",
+                Content = "Content4",
+                PublishDate = DateTime.Parse("22.01.2014")
+            };
+
+            var result =
+                controller.UpdateNews(4, news).ExecuteAsync(new CancellationToken()).Result;
+
+            Assert.AreEqual(HttpStatusCode.BadRequest, result.StatusCode);
+        }
+
+        [TestMethod]
+        public void DeleteNews_WhenNewsIdIsValid_ShouldReturnStatusCodeOkAndDeleteNews()
+        {
+            var repo = CreateRepo();
+            var controller = new NewsController(repo);
+            SetupController(controller, "news");
+
+            var result =
+                controller.DeleteNews(2).ExecuteAsync(new CancellationToken()).Result;
+
+            Assert.AreEqual(HttpStatusCode.OK, result.StatusCode);
+            Assert.AreEqual(2, repo.News.Count);
+
+            var newsInRepo = repo.News.FirstOrDefault(n => n.Id == 2);
+            Assert.IsNull(newsInRepo);            
+        }
+
+        [TestMethod]
+        public void DeleteNews_WhenNewsIdIsInvalid_ShouldReturnStatusCodeBadRequestAndNotAffectBase()
+        {
+            var repo = CreateRepo();
+            var controller = new NewsController(repo);
+            SetupController(controller, "news");
+
+            var news = new NewsPostBindingModel()
+            {
+                Title = "Updated Title",
+                Content = "Content4",
+                PublishDate = DateTime.Parse("22.01.2014")
+            };
+
+            var result =
+                controller.DeleteNews(4).ExecuteAsync(new CancellationToken()).Result;
+
+            Assert.AreEqual(HttpStatusCode.BadRequest, result.StatusCode);
+            Assert.AreEqual(3, repo.News.Count);
         }
 
         private static NewsRepositoryMock CreateRepo()

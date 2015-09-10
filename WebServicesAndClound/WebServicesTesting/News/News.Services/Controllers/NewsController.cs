@@ -60,6 +60,12 @@ namespace News.Services.Controllers
             }
             
             var news = repo.Find(id);
+
+            if (news == null)
+            {
+                return this.BadRequest("No news with id " + id);
+            }
+
             news.Title = model.Title;
             news.Content = model.Content;
             news.PublishDate = model.PublishDate;
@@ -72,9 +78,14 @@ namespace News.Services.Controllers
 
         [HttpDelete]
         [Route("{id}")]
-        public IHttpActionResult UpdateNews([FromUri]int id)
+        public IHttpActionResult DeleteNews([FromUri]int id)
         {
             var news = repo.Find(id);
+
+            if (news == null)
+            {
+                return this.BadRequest("Invalid news id");
+            }
             
             this.repo.Delete(news);
             this.repo.SaveChanges();

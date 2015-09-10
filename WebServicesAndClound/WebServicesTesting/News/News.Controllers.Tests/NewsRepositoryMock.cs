@@ -54,7 +54,8 @@ namespace News.Controllers.Tests
 
         public void Update (News.Models.News entity)
         {
-            int index = this.News.IndexOf(entity);
+            var entityInBase = this.Find(entity.Id);
+            int index = this.News.IndexOf(entityInBase);
             this.News[index] = entity;
         }
 

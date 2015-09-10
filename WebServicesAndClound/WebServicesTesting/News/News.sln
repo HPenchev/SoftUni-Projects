@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Repositories.Tests", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Controllers.Tests", "News.Controllers.Tests\News.Controllers.Tests.csproj", "{3F700757-44A3-439E-BB2A-B195FA95EB91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.IntegrationTests", "News.IntegrationTests\News.IntegrationTests.csproj", "{484A85E6-9465-4C8B-B90A-9D05D956F7C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3F700757-44A3-439E-BB2A-B195FA95EB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F700757-44A3-439E-BB2A-B195FA95EB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F700757-44A3-439E-BB2A-B195FA95EB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484A85E6-9465-4C8B-B90A-9D05D956F7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484A85E6-9465-4C8B-B90A-9D05D956F7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484A85E6-9465-4C8B-B90A-9D05D956F7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484A85E6-9465-4C8B-B90A-9D05D956F7C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

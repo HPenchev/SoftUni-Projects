@@ -27,6 +27,7 @@ namespace News.Repositories.Tests
         {
             var context = new NewsEntities();
             context.News.Delete();
+            
 
             context.News.Add(new News.Models.News()
                 {
